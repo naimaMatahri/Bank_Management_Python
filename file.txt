@@ -1,0 +1,4 @@
+92827,Sara,87656,Saving,900.0
+38374,Nadia,473937,Checking,800.0
+37262,Sandia,83728,Saving,700.0
+362909,Ella,28719,Checking,600.0
